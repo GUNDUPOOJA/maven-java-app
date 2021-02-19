@@ -9,5 +9,9 @@ This repo is about creating java-apps using maven, a java build tool.
 
 - In your C:\temp folder, Open PowerShell as Administrator and run:
 mvn archetype:generate
-- Default number generated is 1743
-- 
+- Default number generated is 1743.
+- groupId : edu.nwmissouri.bigdata.gundu.pooja
+- artifactId: maven-java-app.
+## powershell commands
+- mvn clean: cleans up the file directory.
+- mvn compile : regenerate all the files if necessary.
